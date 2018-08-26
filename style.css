@@ -18,8 +18,8 @@ header {
     text-align: center;
     background-color: #666;
     font-size: 35px;
-    color: white;
-    padding: 30px;
+    color: grey;
+    padding: 20px;
     margin-bottom: 10px;
     background: #ebebeb;
 }
@@ -28,7 +28,7 @@ nav {
     text-align: center;
     background: #ccc;
     font-size: 35px;
-    padding: 30px;
+    padding: 20px;
     background: #ebebeb;
     margin-bottom: 20px;
 
@@ -38,8 +38,9 @@ section {
     float: left;
     background: #ebebeb;
     width: 51.56%;
-    height: 200px;
+    height: 300px;
     text-align: center;
+    
        
     
 }
@@ -48,7 +49,7 @@ aside{
     float: right;
     background: #ebebeb;
     width: 44.9%;
-    height: 200px;
+    height: 300px;
     
     
     
@@ -60,8 +61,10 @@ article {
 
     color: #ebebeb;
     background: #777;
-    height: 150;
+    margin: 10px;
+    height: 260px;
     text-align: center;
+    
      
 
 }
@@ -73,6 +76,7 @@ h1{
     background: #ebebeb;
     text-align: center;
     padding: 20px;
+    margin: 10px;
 
 }
 
@@ -80,6 +84,10 @@ p{
     color: #777;
     background: #ebebeb;
     text-align: center;
+    padding: 20px;
+    margin: 10px;
+
+    
     
 }
 
@@ -88,7 +96,7 @@ footer {
     clear: both;
     background: #ebebeb;
     text-align: center;
-    border-top: 20px solid #777;
-    padding: 10px;
+    border-top: 15px solid #777;
+    padding: 30px;
 
 }
